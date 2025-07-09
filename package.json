@@ -1,0 +1,27 @@
+{
+  "name": "dark_theme_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+  "start": "npx live-server web",
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rw110299/dark_theme_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rw110299/dark_theme_project/issues"
+  },
+  "homepage": "https://github.com/Rw110299/dark_theme_project#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
